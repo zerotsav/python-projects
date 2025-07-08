@@ -1,4 +1,4 @@
-# Python Projects Collection
+# Mini Python Projects Collection
 
 Here are the Python projects that I have created and will continue to create. This repository will serve as a place to upload all the mini Python projects I build over time.
 
